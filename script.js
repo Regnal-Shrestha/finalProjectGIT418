@@ -228,7 +228,7 @@ document.addEventListener('DOMContentLoaded', function() {
 async function getWeather() {
     const weatherDisplay = document.getElementById('weather');
     const WEATHER_API_KEY = '006def2b5798a192ea8bca31d612048a'; // Replace with actual API key
-    const city = 'Los Angeles';
+    const city = 'Cary';
     
     try {
         // Fetch weather data
