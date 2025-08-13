@@ -7,17 +7,16 @@
 
 /* colors i used for branding */
 :root {
-    --primary-color: #ad0f1c;    /* soft pink for main stuff */
-    --secondary-color: #B5EAD7;  /* minty green for accents */
-    --accent-color: #FFDAC1;     /* peachy color for highlights */
-    --text-color: #2D3047;       /* dark blue-gray for text */
-    --light-bg: #F8F9FA;         /* super light gray for backgrounds */
+    --primary-color: #ad0f1c;   
+    --accent-color: #FFDAC1;     
+    --text-color: #2D3047;       
+    --light-bg: #F8F9FA;         
     --white: #FFFFFF;
-    --purple: #E2D0F3;           /* light purple for some flair */
-    --green: #C7CEEA;            /* soft blue-green */
-    --kawaii-pink: #FFB7B2;      /* another pink shade */
-    --kawaii-blue: #B5EAD7;      /* another minty shade */
-    --kawaii-yellow: #FFE5B4;    /* soft yellow */
+    --purple: #E2D0F3;         
+    --green: #C7CEEA;           
+    --kawaii-pink: #FFB7B2;     
+    --kawaii-blue: #B5EAD7;      
+    --kawaii-yellow: #FFE5B4;   
 }
 
 /* google fonts */
