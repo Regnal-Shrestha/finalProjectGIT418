@@ -1078,7 +1078,7 @@ footer {
     /* ensure logo, weather widget, and menu button are all visible */
     .logo {
         order: 1;
-        margin-right: auto;  /* push other items to the right */
+        margin-right: auto;  
     }
 
     .weather-widget {
@@ -1087,7 +1087,7 @@ footer {
 
     .mobile-menu-btn {
         order: 3;
-        margin-left: 1rem;  /* add space between weather widget and menu */
+        margin-left: 1rem;  
     }
 }
 

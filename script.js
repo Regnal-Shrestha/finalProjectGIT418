@@ -227,8 +227,8 @@ document.addEventListener('DOMContentLoaded', function() {
 // Weather API integration
 async function getWeather() {
     const weatherDisplay = document.getElementById('weather');
-    const WEATHER_API_KEY = '006def2b5798a192ea8bca31d612048a'; // Replace with actual API key
-    const city = 'Cary';
+    const WEATHER_API_KEY = '006def2b5798a192ea8bca31d612048a'; 
+    const city = 'Los Angeles';
     
     try {
         // Fetch weather data
